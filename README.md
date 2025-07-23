@@ -48,9 +48,9 @@ I'm always open to:
 ## My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragya&show_icons=true&theme=radical" alt="Pragya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pragya03&show_icons=true&theme=radical" alt="Pragya's GitHub stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragya03&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
