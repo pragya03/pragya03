@@ -12,8 +12,6 @@
 I'm an enthusiastic learner driven by curiosity in the fields of **Machine Learning**, **Data Science**, and **Artificial Intelligence**.  
 I enjoy solving real-world problems through data, building intelligent models, and continuously sharpening my skills in Python, ML, and statistics.
 
-> _"Satisfaction is a book of achievements, built from doing, trying, failing, learning — and finally succeeding."_
-
 ---
 
 ## What I'm Up To
